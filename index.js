@@ -1,2 +1,2 @@
-var katzDeliLine = [];
+var katzDeliLine = [takeANumber];
 takeANumber(katzDeliLine, "Ada");
