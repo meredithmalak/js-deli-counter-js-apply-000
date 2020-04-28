@@ -1,1 +1,1 @@
-var katzDeliLine = [];
+var katzDeliLine = ["1","2", "3", "4" ];
