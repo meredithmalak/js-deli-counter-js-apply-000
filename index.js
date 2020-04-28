@@ -1,1 +1,1 @@
-var katzDeliLine = ["1","2", "3", "4" ];
+var takeANumber = ["1","2", "3", "4" ];
