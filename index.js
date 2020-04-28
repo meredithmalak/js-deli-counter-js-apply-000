@@ -1,1 +1,1 @@
-var katzDeliLine = [takeANumber];
+var katzDeliLine = [];
