@@ -1,1 +1,1 @@
-var katzDeliLine = [Ada, Grace, Kent];
+var katzDeliLine = [takeANumber];
